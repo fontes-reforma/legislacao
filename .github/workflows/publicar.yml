@@ -29,7 +29,7 @@ jobs:
           python-version: "3.12"
 
       - name: Instalar dependências
-        run: pip install requests beautifulsoup4 lxml pdfplumber
+        run: pip install requests beautifulsoup4 lxml pdfplumber openpyxl
 
       - name: Gerar site
         run: |

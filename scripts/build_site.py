@@ -76,7 +76,7 @@ def obter_bytes(fonte: dict) -> bytes | None:
     if url:
         for tentativa in range(3):
             try:
-                r = requests.get(url, headers={"User-Agent": UA}, timeout=120)
+                r = requests.get(url, headers={"User-Agent": UA}, timeout=(20, 120))
                 r.raise_for_status()
                 if anterior and len(r.content) < len(anterior) / 2:
                     erro = (f"download suspeito ({len(r.content):,} bytes contra "
