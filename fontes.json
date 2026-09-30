@@ -43,11 +43,109 @@
     },
     {
       "id": "nota-tecnica",
-      "sigla": "Nota Técnica",
-      "titulo": "Nota Técnica autorizada",
+      "sigla": "NT NF-e 2025.002-RTC",
+      "titulo": "NF-e/NFC-e: Nota Técnica 2025.002-RTC, versão 1.51 (julho de 2026)",
       "tipo": "pdf_blocos",
-      "url": "https://www.legisweb.com.br/downloads/?id=6a71fb216860b5.04836133&raw=1",
-      "arquivo_manual": "fontes_manuais/nota-tecnica.pdf"
+      "url": "",
+      "arquivo_manual": "fontes_manuais/nt-nfe-2025-002.pdf",
+      "url_oficial": "https://www.nfe.fazenda.gov.br/portal/principal.aspx"
+    },
+    {
+      "id": "cf",
+      "sigla": "Constituição Federal",
+      "titulo": "Constituição da República Federativa do Brasil de 1988 (texto compilado, com ADCT)",
+      "tipo": "planalto_html",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+      "arquivo_manual": "fontes_manuais/cf.htm"
+    },
+    {
+      "id": "ajuste-sinief-49-2025",
+      "sigla": "Ajuste SINIEF 49/2025",
+      "titulo": "Ajuste SINIEF nº 49, de 5 de dezembro de 2025 (emissão de documentos fiscais nas operações e prestações que especifica)",
+      "tipo": "planalto_html",
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/ajustes/2025/AJ049_25",
+      "arquivo_manual": "fontes_manuais/ajuste-sinief-49-2025.htm"
+    },
+    {
+      "id": "nt-nfe-2026-002",
+      "sigla": "NT NF-e 2026.002",
+      "titulo": "NF-e/NFC-e: Nota Técnica 2026.002, versão 1.10 (emissão offline, autorização com alerta e DANFE simplificado tipo 2)",
+      "tipo": "pdf_blocos",
+      "url": "",
+      "url_oficial": "https://www.nfe.fazenda.gov.br/portal/principal.aspx",
+      "arquivo_manual": "fontes_manuais/nt-nfe-2026-002.pdf"
+    },
+    {
+      "id": "nt-cte-2025-001",
+      "sigla": "NT CT-e 2025.001-RTC",
+      "titulo": "CT-e: Nota Técnica 2025.001 (Reforma Tributária do Consumo), versão 1.14b",
+      "tipo": "pdf_blocos",
+      "url": "",
+      "url_oficial": "https://www.cte.fazenda.gov.br/portal/",
+      "arquivo_manual": "fontes_manuais/nt-cte-2025-001.pdf"
+    },
+    {
+      "id": "nt-nfse-005",
+      "sigla": "NT NFS-e 005",
+      "titulo": "NFS-e Nacional: Nota Técnica nº 005, versão 1.1 (novo leiaute RTC)",
+      "tipo": "pdf_blocos",
+      "url": "",
+      "url_oficial": "https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica",
+      "arquivo_manual": "fontes_manuais/nt-nfse-005.pdf"
+    },
+    {
+      "id": "nt-nfse-006",
+      "sigla": "NT NFS-e 006",
+      "titulo": "NFS-e Nacional: Nota Técnica nº 006 (NFS-e Via, exploração de via)",
+      "tipo": "pdf_blocos",
+      "url": "",
+      "url_oficial": "https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica",
+      "arquivo_manual": "fontes_manuais/nt-nfse-006.pdf"
+    },
+    {
+      "id": "nt-nfse-007",
+      "sigla": "NT NFS-e 007",
+      "titulo": "NFS-e Nacional: Nota Técnica nº 007, versão 1.0 (atualizações e esclarecimentos)",
+      "tipo": "pdf_blocos",
+      "url": "",
+      "url_oficial": "https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica",
+      "arquivo_manual": "fontes_manuais/nt-nfse-007.pdf"
+    },
+    {
+      "id": "nt-nfse-008",
+      "sigla": "NT NFS-e 008",
+      "titulo": "NFS-e Nacional: Nota Técnica nº 008, versão 1.02 (especificações do DANFSe)",
+      "tipo": "pdf_blocos",
+      "url": "",
+      "url_oficial": "https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica",
+      "arquivo_manual": "fontes_manuais/nt-nfse-008.pdf"
+    },
+    {
+      "id": "nt-nfse-009",
+      "sigla": "NT NFS-e 009",
+      "titulo": "NFS-e Nacional: Nota Técnica nº 009, versão 1.0 (notas de ajuste, Simples Nacional, imóveis)",
+      "tipo": "pdf_blocos",
+      "url": "",
+      "url_oficial": "https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica",
+      "arquivo_manual": "fontes_manuais/nt-nfse-009.pdf"
+    },
+    {
+      "id": "nfse-anexo-vii-cindop",
+      "sigla": "NFS-e Anexo VII (cIndOp)",
+      "titulo": "NFS-e Nacional: Anexo VII, códigos indicadores da operação (cIndOp), versão 1.02.00",
+      "tipo": "csv_indop",
+      "url": "",
+      "url_oficial": "https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica",
+      "arquivo_manual": "fontes_manuais/nfse-anexo-vii-cindop.csv"
+    },
+    {
+      "id": "nfse-anexo-viii-nbs",
+      "sigla": "NFS-e Anexo VIII (NBS)",
+      "titulo": "NFS-e Nacional: Anexo VIII, correlação item da LC 116, NBS, cIndOp e cClassTrib, versão 1.01.00",
+      "tipo": "xlsx_nbs",
+      "url": "",
+      "url_oficial": "https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica",
+      "arquivo_manual": "fontes_manuais/nfse-anexo-viii-nbs.xlsx"
     }
   ]
 }
