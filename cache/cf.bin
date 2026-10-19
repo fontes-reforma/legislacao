@@ -1517,15 +1517,14 @@ IMG.main_image_hp	{ }
    <p style="text-indent: 38px">
     <a name="art7xii">
     </a>
-    <a name="7XII">
-    </a>
-    XII - salário-família pago em razão do dependente do trabalhador de baixa 
+    &nbsp;<a name="7XII"></a>XII - salário-família pago em razão do dependente do trabalhador de baixa 
 	renda nos termos da lei;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="Emendas/Emc/emc20.htm#art1">
      (Redação dada pela Emenda Constitucional nº 20, de 1998)
     </a>
    </p>
    <p style="text-indent: 38px">
+    <strike>
     <a name="art7xiii">
     </a>
     <a name="7XIII">
@@ -1535,11 +1534,16 @@ IMG.main_image_hp	{ }
 	da jornada, mediante acordo ou convenção coletiva de trabalho;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="../Decreto-Lei/Del5452.htm#art478§2">
      (Vide Decreto-Lei nº 5.452, de 1943)
-    </a>
+    </a></strike>
    </p>
+	<p style="text-indent: 38px">
+    <font face="Arial" size="2"><a name="art7-13"></a>XIII - duração do trabalho normal não superior a 8 
+(oito) horas diárias e 40 (quarenta) horas semanais, facultada a compensação de 
+horários e a redução da jornada, mediante acordo ou convenção coletiva de 
+trabalho;&nbsp;&nbsp; <a href="emendas/emc/emc141.htm#art1">(Redação dada pela 
+	Emenda Constitucional nº 141, de 2026)</a></font></p>
    <p style="text-indent: 38px">
-    <a name="art7xiv">
-    </a>
+    <a name="art7xiv"></a>
     <a name="7XIV">
     </a>
     XIV - jornada de seis horas para o trabalho realizado em turnos 
@@ -1550,8 +1554,11 @@ IMG.main_image_hp	{ }
     </a>
     <a name="7XV">
     </a>
-    XV - repouso semanal remunerado, preferencialmente aos domingos;
-   </p>
+    XV - repouso semanal remunerado, preferencialmente aos domingos;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <font face="Arial" size="2">
+	<a href="emendas/emc/emc141.htm#art1">(Vide Emenda 
+	Constitucional nº 141, de 2026)</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="emendas/emc/emc141.htm#art10">(Vigência)</a></font></p>
    <p style="text-indent: 38px">
     <a name="art7xvi">
     </a>
@@ -1798,6 +1805,7 @@ IMG.main_image_hp	{ }
     </strike>
    </p>
    <p style="text-indent: 38px">
+    <strike>
     <a name="art7p">
     </a>
     Parágrafo único. São assegurados à categoria dos trabalhadores domésticos os 
@@ -1809,8 +1817,35 @@ IMG.main_image_hp	{ }
 	XII, XXV e XXVIII, bem como a sua integração à previdência social.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="Emendas/Emc/emc72.htm">
      (Redação dada pela Emenda Constitucional nº 72, de 2013)
-    </a>
+    </a></strike>
    </p>
+	<p style="text-indent: 38px">
+    <font face="Arial" size="2"><a name="art7§1"></a>§ 1º </font>São assegurados 
+	à categoria dos trabalhadores domésticos os direitos previstos nos incisos 
+	IV, VI, VII, VIII, X, XIII, XV, XVI, XVII, XVIII, XIX, XXI, XXII, XXIV, 
+	XXVI, XXX, XXXI e XXXIII e, atendidas as 
+	condições estabelecidas em lei e observada a simplificação do cumprimento 
+	das obrigações tributárias, principais e acessórias, decorrentes da relação 
+	de trabalho e suas peculiaridades, os previstos nos incisos I, II, III, IX, 
+	XII, XXV e XXVIII, bem como a sua integração à previdência social.&nbsp;&nbsp;&nbsp;
+	<font face="Arial" size="2"><a href="emendas/emc/emc141.htm#art1">(Redação 
+	dada pela Emenda Constitucional nº 141, de 2026)</a></font></p>
+	<p class="MsoNormal" style="text-indent: 38px; line-height: normal; margin-bottom: 15px; background: white; margin-top:15px" align="justify">
+	<font face="Arial" size="2"><a name="art7§2"></a>§ 2º Excepcionalmente, convenção ou acordo coletivo 
+de trabalho poderão, inclusive para os trabalhadores sujeitos a regimes 
+diferenciados de trabalho estabelecidos em lei ou norma regulamentadora, 
+estabelecer regime compensatório que assegure, na média, 2 (dois) dias de 
+repouso semanal remunerado dentro do mês-calendário, garantido o gozo de pelo 
+menos 1 (um) dos dias dentro do período máximo de 1 (uma) semana de trabalho.&nbsp;&nbsp;&nbsp;
+	<a href="emendas/emc/emc141.htm#art1">(Incluído pela Emenda Constitucional 
+	nº 141, de 2026)</a></font></p>
+	<p class="MsoNormal" style="text-indent: 38px; line-height: normal; margin-bottom: 15px; background: white; margin-top:15px" align="justify">
+	<font face="Arial" size="2"><a name="art7§3"></a>§ 3º Lei poderá dispor sobre hip</font><span style="font-family: Arial,sans-serif"><font size="2" color="#162937">óteses 
+e condições em que a duração do trabalho e os dias de repouso semanal remunerado 
+poderão observar regimes diferenciados, respeitados os limites previstos nos 
+incisos XIII, XIV e XV do <b>caput</b> deste artigo.&nbsp;&nbsp; </font></span>
+	<font face="Arial" size="2"><a href="emendas/emc/emc141.htm#art1">(Incluído 
+	pela Emenda Constitucional nº 141, de 2026)</a></font></p>
    <p style="text-indent: 38px">
     <span style="color: black; font-weight: normal">
   <font face="Arial" size="2">
@@ -6666,13 +6701,20 @@ Emenda Constitucional nº 139, de 2026)</a></span></font></p>
   </a></strike>
  </p>
 	<p class="MsoNormal" style="line-height: normal; text-autospace: none; text-indent: 38px; margin-top: 20px; margin-bottom: 20px" align="justify">
+  <strike>
   <a name="art40§4.0">
   </a>
   	§ 4º É vedada a adoção de requisitos ou critérios diferenciados para 
 	concessão de benefícios em regime próprio de previdência social, ressalvado 
 	o disposto nos §§ 4º-A, 4º-B, 4º-C e 5º.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="Emendas/Emc/emc103.htm#art1">(Redação dada pela Emenda 
-	Constitucional nº 103, de 2019)</a></p>
+	Constitucional nº 103, de 2019)</a></strike></p>
+	<p class="MsoNormal" style="line-height: normal; text-autospace: none; text-indent: 38px; margin-top: 20px; margin-bottom: 20px" align="justify">
+  <font face="Arial" size="2"><a name="art40§4.1"></a>§ 4º É vedada a adoção de requisitos ou critérios 
+diferenciados para concessão de benefícios em regime próprio de previdência 
+social, ressalvado o disposto nos §§ 4º-A, 4º-B, 4º-C, 5º e 5º-A deste artigo.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="emendas/emc/emc140.htm#art1">(Redação dada pela Emenda 
+	Constitucional nº 140, de 2026)</a></p>
 	<p class="MsoNormal" style="line-height: normal; text-autospace: none; text-indent: 38px; margin-top: 20px; margin-bottom: 20px" align="justify">
 	<a name="art40§4a"></a>§ 4º-A. Poderão ser estabelecidos por lei 
 	complementar do respectivo ente federativo idade e tempo de contribuição 
@@ -6720,6 +6762,15 @@ Emenda Constitucional nº 139, de 2026)</a></span></font></p>
 	federativo.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="Emendas/Emc/emc103.htm#art1">(Redação dada pela Emenda 
 	Constitucional nº 103, de 2019)</a></p>
+	<p style="text-indent: 38px">
+ <font face="Arial" size="2"><a name="art40§5a"></a>§ 5º-A. O requisito de idade a que se refere o 
+inciso III do § 1º deste artigo será de 57 (cinquenta e sete) anos de idade, se 
+mulher, e 60 (sessenta) anos de idade, se homem, para o agente comunitário de 
+saúde e o agente de combate às endemias que comprovem o mínimo de 25 (vinte e 
+cinco) anos de tempo de contribuição e de efetivo exercício na respectiva 
+atividade profissional.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="emendas/emc/emc140.htm#art1">(Incluído pela Emenda 
+	Constitucional nº 140, de 2026)</a></p>
 <p style="margin-top: 0; margin-bottom: 0; text-indent:38px">
  <strike>
  <a name="art40§6">
@@ -24897,6 +24948,12 @@ Emenda Constitucional nº 108, de 2020) </a></font>
   </a>
   III - participação da comunidade.
  </p>
+	<p style="text-indent: 38px">
+  <font face="Arial" size="2"><a name="art198iv"></a>IV - atuação obrigatória e permanente de agentes 
+comunitários de saúde e de agentes de combate às endemias, cuja atividade é 
+essencial ao sistema único de saúde e exclusiva de Estado.</font><font SIZE="2">&nbsp;&nbsp;&nbsp;&nbsp;
+	<font face="Arial"><a href="emendas/emc/emc140.htm#art1">(Incluído pela Emenda 
+	Constitucional nº 140, de 2026)</a></font></font></p>
  <p style="text-indent: 38px">
   <a name="art198§1">
   </a>
@@ -25056,6 +25113,22 @@ Emenda Constitucional nº 108, de 2020) </a></font>
    (Incluído pela Emenda Constitucional nº 51, de 2006)
   </a>
  </p>
+	<p class="MsoNormal" style="text-indent: 38px; line-height: normal; margin-bottom: 15px; background: white; margin-top:15px" align="justify">
+	<font face="Arial" size="2"><a name="art198-§4a"></a>§ 4º-A. É vedada a contratação temporária ou 
+terceirizada de agentes comunitários de saúde e de agentes de combate às 
+endemias, salvo a hipótese de emergência em saúde pública, na forma da lei.
+	</font>
+<font SIZE="2">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <font face="Arial">
+	<a href="emendas/emc/emc140.htm#art1">(Incluído pela Emenda 
+	Constitucional nº 140, de 2026)</a></font></font></p>
+	<p class="MsoNormal" style="text-indent: 38px; line-height: normal; margin-bottom: 15px; background: white; margin-top:15px" align="justify">
+	<font face="Arial" size="2">§ 4º-B. Os agentes de que trata o § 4º deste artigo 
+submetem-se ao regime jurídico dos servidores nomeados para cargo de provimento 
+efetivo.&nbsp;&nbsp;&nbsp;&nbsp; </font><font face="Arial" SIZE="2">
+	<a href="emendas/emc/emc140.htm#art1">(Incluído pela Emenda 
+	Constitucional nº 140, de 2026)</a></font></p>
  <p style="text-align: justify; text-indent:38px">
   <strike>
    <a name="art198§5">
@@ -25127,6 +25200,7 @@ line-height:107%;font-family:&quot;Arial&quot;,sans-serif"><a name="art198§9">
 	</span><a href="Emendas/Emc/emc120.htm#art1">(Incluído pela Emenda Constitucional nº 
 	120, de 2022) </a></p>
 	<p class="MsoNormal" style="text-align: justify; text-indent: 38px; margin-top: 15px; margin-bottom: 15px">
+	<strike>
 	<span style="font-size:10.0pt;
 line-height:107%;font-family:&quot;Arial&quot;,sans-serif"><a name="art198§10">
 	</a>§ 10. Os agentes comunitários de saúde e os agentes de combate às 
@@ -25134,7 +25208,17 @@ line-height:107%;font-family:&quot;Arial&quot;,sans-serif"><a name="art198§10">
 	desempenhadas, aposentadoria especial e, somado aos seus vencimentos, 
 	adicional de insalubridade.&nbsp;&nbsp;&nbsp; </span>
 	<a href="Emendas/Emc/emc120.htm#art1">(Incluído pela Emenda Constitucional nº 
-	120, de 2022) </a></p>
+	120, de 2022) </a></strike></p>
+	<p class="MsoNormal" style="background:white url(''); text-indent: 38px; margin-top: 15px; margin-bottom: 15px; line-height:normal" align="justify">
+	<font face="Arial" size="2"><a name="art198§10.0"></a>§ 10. Os agentes comunitários de saúde e os agentes 
+de combate às endemias terão, em razão dos riscos inerentes às funções 
+desempenhadas, direito à aposentadoria mediante requisitos diferenciados, na 
+forma do <a href="#art40§5a">§ 5º-A do art. 40</a> e do <a href="#art201§8a">§ 8º-A do art. 201 desta Constituição</a>, e ao 
+adicional de insalubridade.&nbsp; </font>
+<font SIZE="2">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="emendas/emc/emc140.htm#art1">(Redação dada pela Emenda 
+	Constitucional nº 140, de 2026)</a></font></p>
 	<p class="MsoNormal" style="text-align: justify; text-indent: 38px; margin-top: 15px; margin-bottom: 15px">
 	<span style="font-size:10.0pt;
 line-height:107%;font-family:&quot;Arial&quot;,sans-serif"><a name="art198§11">
@@ -25679,6 +25763,15 @@ line-height:107%;font-family:&quot;Arial&quot;,sans-serif"><a name="art198§11">
 	médio fixado em lei complementar.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="Emendas/Emc/emc103.htm#art1">(Redação dada pela Emenda 
 	Constitucional nº 103, de 2019)</a></p>
+	<p style="text-indent: 38px">
+  <font face="Arial" size="2"><a name="art201§8a"></a>§ 8º-A. O requisito de idade a que se refere o 
+inciso I do § 7º deste artigo será de 57 (cinquenta e sete) anos de idade, se 
+mulher, e 60 (sessenta) anos de idade, se homem, para o agente comunitário de 
+saúde e o agente de combate às endemias que comprovem o mínimo de 25 (vinte e 
+cinco) anos de tempo de contribuição e de efetivo exercício na respectiva 
+atividade profissional.</font><font SIZE="2">&nbsp;&nbsp;&nbsp;&nbsp;
+	<font face="Arial"><a href="emendas/emc/emc140.htm#art1">(Incluído pela Emenda 
+	Constitucional nº 140, de 2026)</a></font></font></p>
  <p style="text-indent: 38px">
   <strike>
   <a name="art201§9">
@@ -39427,7 +39520,7 @@ line-height:107%;font-family:&quot;Arial&quot;,sans-serif">&nbsp;<a name="adctar
 
 <script type="text/javascript" src="../integracao/js/stf.js"></script>
 
-<script id="f5_cspm">(function(){var f5_cspm={f5_p:'IPCALFLCOPJMBKDGGMEMPPMBGEFEPHFNDEHPPOAGACIOCGGMHFBEDAMPANOJEJPBCJOBOKDMAAJCGJIMKDMACLKIAADEGMBLDPJKJGPCEFAGLHONLIMLNFCGJGPNPONH',setCharAt:function(str,index,chr){if(index>str.length-1)return str;return str.substr(0,index)+chr+str.substr(index+1);},get_byte:function(str,i){var s=(i/16)|0;i=(i&15);s=s*32;return((str.charCodeAt(i+16+s)-65)<<4)|(str.charCodeAt(i+s)-65);},set_byte:function(str,i,b){var s=(i/16)|0;i=(i&15);s=s*32;str=f5_cspm.setCharAt(str,(i+16+s),String.fromCharCode((b>>4)+65));str=f5_cspm.setCharAt(str,(i+s),String.fromCharCode((b&15)+65));return str;},set_latency:function(str,latency){latency=latency&0xffff;str=f5_cspm.set_byte(str,40,(latency>>8));str=f5_cspm.set_byte(str,41,(latency&0xff));str=f5_cspm.set_byte(str,35,2);return str;},wait_perf_data:function(){try{var wp=window.performance.timing;if(wp.loadEventEnd>0){var res=wp.loadEventEnd-wp.navigationStart;if(res<60001){var cookie_val=f5_cspm.set_latency(f5_cspm.f5_p,res);window.document.cookie='f5avr1762355499aaaaaaaaaaaaaaaa_cspm_='+encodeURIComponent(cookie_val)+';path=/;'+'';}
+<script id="f5_cspm">(function(){var f5_cspm={f5_p:'IPCALFLCOPJMBOEGGMEMPPMBGEFEPCPNDIKPDPAGACIOCGGMHFKEOAMPANOJEJPBCJOBOKDMAAJCGJIMKDMACLKIAADEGMBLHPEKNMKCEFAGLHHLKPLPMPCGJGPNPOIN',setCharAt:function(str,index,chr){if(index>str.length-1)return str;return str.substr(0,index)+chr+str.substr(index+1);},get_byte:function(str,i){var s=(i/16)|0;i=(i&15);s=s*32;return((str.charCodeAt(i+16+s)-65)<<4)|(str.charCodeAt(i+s)-65);},set_byte:function(str,i,b){var s=(i/16)|0;i=(i&15);s=s*32;str=f5_cspm.setCharAt(str,(i+16+s),String.fromCharCode((b>>4)+65));str=f5_cspm.setCharAt(str,(i+s),String.fromCharCode((b&15)+65));return str;},set_latency:function(str,latency){latency=latency&0xffff;str=f5_cspm.set_byte(str,40,(latency>>8));str=f5_cspm.set_byte(str,41,(latency&0xff));str=f5_cspm.set_byte(str,35,2);return str;},wait_perf_data:function(){try{var wp=window.performance.timing;if(wp.loadEventEnd>0){var res=wp.loadEventEnd-wp.navigationStart;if(res<60001){var cookie_val=f5_cspm.set_latency(f5_cspm.f5_p,res);window.document.cookie='f5avr1762355499aaaaaaaaaaaaaaaa_cspm_='+encodeURIComponent(cookie_val)+';path=/;'+'';}
 return;}}
 catch(err){return;}
 setTimeout(f5_cspm.wait_perf_data,100);return;},go:function(){var chunk=window.document.cookie.split(/\s*;\s*/);for(var i=0;i<chunk.length;++i){var pair=chunk[i].split(/\s*=\s*/);if(pair[0]=='f5_cspm'&&pair[1]=='1234')
